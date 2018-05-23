@@ -1,4 +1,4 @@
-# ots-currency-integration-sdk
+# ots-open-currency-integration-sdk
 
 ## Summary
 
@@ -18,11 +18,17 @@ This Technology Specification aims to provide a way to provide a common infrastr
 ### Request For Comment
 
 * 2-Way Protocol? MQTT? TCP? FIX?
+* List of required requests and their responses (schema)
+* Data encoding... [Cap'n Proto](https://capnproto.org/)? [Protobuf(https://developers.google.com/protocol-buffers/)]?
+
+### Considerations
+
+* Handling of tokens for platforms such as Ethereum, NEO, EOS, etc.
+* Handling of environment security.
+* Kubernetes implementation for coordinating clusters of coins integrated with the CIS.
 
 ### Technology Stack
 
 #### Docker
 
 #### MQTT
-
-####
