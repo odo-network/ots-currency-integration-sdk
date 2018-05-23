@@ -19,7 +19,7 @@ This Technology Specification aims to provide a way to provide a common infrastr
 
 * 2-Way Protocol? MQTT? TCP? FIX?
 * List of required requests and their responses (schema)
-* Data encoding... [Cap'n Proto](https://capnproto.org/)? [Protobuf(https://developers.google.com/protocol-buffers/)]?
+* Data encoding... [Cap'n Proto](https://capnproto.org/)? [Protobuf](https://developers.google.com/protocol-buffers/)?
 
 ### Considerations
 
