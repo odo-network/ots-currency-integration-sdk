@@ -8,8 +8,9 @@ This Technology Specification aims to provide a way to provide a common infrastr
 
 ### Core Concepts
 
-* 2-Way encrypted communication to signing agent.
 * Integration never receives or maintains private keys.
+* 2-Way encrypted communication with signing agent.
 * Common request/callback formatting for transactions.
 * Containerized output that can be deployed in most environments securely.
+* Restricted network output to only the necessary ports and destinations as-defined by the currencies specification.
 * Signing agent to handle formatting and signing of transactions.
