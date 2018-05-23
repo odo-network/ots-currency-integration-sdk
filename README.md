@@ -14,3 +14,15 @@ This Technology Specification aims to provide a way to provide a common infrastr
 * Containerized output that can be deployed in most environments securely.
 * Restricted network output to only the necessary ports and destinations as-defined by the currencies specification.
 * Signing agent to handle formatting and signing of transactions.
+
+### Request For Comment
+
+* 2-Way Protocol? MQTT? TCP? FIX?
+
+### Technology Stack
+
+#### Docker
+
+#### MQTT
+
+####
