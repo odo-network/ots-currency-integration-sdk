@@ -26,6 +26,7 @@ This Technology Specification aims to provide a way to provide a common infrastr
 * 2-Way Protocol? [MQTT](http://mqtt.org/)? TCP? [FIX](https://www.fixtrading.org/standards/)?
 * List of required requests and their responses (schema)
 * Data encoding... [Cap'n Proto](https://capnproto.org/)? [Protobuf](https://developers.google.com/protocol-buffers/)?
+* Minimum requirements for node integration? Expectations and assumptions that we will make for all implementations?
 
 ### Technology Stack
 
