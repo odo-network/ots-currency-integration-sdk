@@ -15,20 +15,22 @@ This Technology Specification aims to provide a way to provide a common infrastr
 * Restricted network output to only the necessary ports and destinations as-defined by the currencies specification.
 * Signing agent to handle formatting and signing of transactions.
 
-### Request For Comment
-
-* 2-Way Protocol? [MQTT](http://mqtt.org/)? TCP? [FIX](https://www.fixtrading.org/standards/)?
-* List of required requests and their responses (schema)
-* Data encoding... [Cap'n Proto](https://capnproto.org/)? [Protobuf](https://developers.google.com/protocol-buffers/)?
-
 ### Considerations
 
 * Handling of tokens for platforms such as Ethereum, NEO, EOS, etc.
 * Handling of environment security.
 * Kubernetes implementation for coordinating clusters of coins integrated with the CIS.
 
+### Open Discussion Points
+
+* 2-Way Protocol? [MQTT](http://mqtt.org/)? TCP? [FIX](https://www.fixtrading.org/standards/)?
+* List of required requests and their responses (schema)
+* Data encoding... [Cap'n Proto](https://capnproto.org/)? [Protobuf](https://developers.google.com/protocol-buffers/)?
+
 ### Technology Stack
 
 #### Docker
+
+#### Cap'n Proto
 
 #### MQTT
